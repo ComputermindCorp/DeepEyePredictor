@@ -8,13 +8,23 @@ DeepEye Predictor.
 * Visual Studio 2017
 
 ### download library
+#### CodeMeter Runtime
 http://www.suncarla.co.jp/codemeter/runtimekit/v680/index.html
 
 * CodeMeter Runtime Kit Ver 6.80 (x64)
 
+#### OpenCV
+opencv 3.4.3
+https://opencv.org/releases/
+
+```
+C:\opencv
+```
+
 ## Ubuntu 18.04
 
 ### download library
+#### CodeMeter Runtime
 http://www.suncarla.co.jp/codemeter/runtimekit/v680/index.html
 
 * CodeMeter Runtime Kit Ver 6.80 (x64)
