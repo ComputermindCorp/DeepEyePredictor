@@ -51,3 +51,7 @@ pass: VC1ZvmB6
 models/googlenet_lego.deep
 models/ssd_10classes.deep
 ```
+
+# notice
+"Acceleration of test data quality assurance technology using neuron coverage, GTC2020, Poster Session (Review)"
+Above sample code will be upload coming soon!
