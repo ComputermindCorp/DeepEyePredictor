@@ -43,9 +43,9 @@ $ make
 
 
 # Download weights file
-https://g5-compmind.s-portcloud.com/fc2bbf4aa4554596df0bcd35b515b1db453cf94f8
+https://g5-compmind.s-portcloud.com/f04d7298ba27c9c4e43afb02800c1f4a2c13e57ba
 
-pass: VC1ZvmB6
+pass: bvxQMNt3
 
 ```
 models/googlenet_lego.deep
